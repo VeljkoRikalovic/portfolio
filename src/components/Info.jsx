@@ -130,7 +130,7 @@ function Info() {
           <span>07.02.2001.</span>
         </Link>
       </StyledDiv>
-      <a href={`/public/${currentLng}`} download={currentLng}>
+      <a href={`/${currentLng}`} download={currentLng}>
         <ButtonMain>
           {t("infoCV")} <HiDownload />
         </ButtonMain>
