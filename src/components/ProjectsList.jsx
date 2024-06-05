@@ -115,28 +115,28 @@ function ProjectsList() {
         github="https://github.com/VeljkoRikalovic/history-or-geography-quiz"
         live="https://history-or-geography-quiz-vrikalovic.netlify.app/"
         name="History or geography quiz"
-        img="/public/hgscreen.png"
+        img="/hgscreen.png"
         details={t("projectsDetailsOne")}
       />
       <Project
         github="https://github.com/VeljkoRikalovic/fast-react-pizza"
         live="https://fast-react-pizza-veljkorikalovic.netlify.app/"
         name="Fast React Pizza app"
-        img="/public/frpscreen.png"
+        img="/frpscreen.png"
         details={t("projectsDetailsTwo")}
       />
       <Project
         github="https://github.com/VeljkoRikalovic/the-wild-oasis"
         live="https://the-wild-oasis-veljkorikalovic.netlify.app"
         name="The wild oasis"
-        img="/public/twoscreen.png"
+        img="/twoscreen.png"
         details={t("projectsDetailsThree")}
       />
       <Project
         github="https://github.com/VeljkoRikalovic/musix-app"
         live="https://musix-app-veljkorikalovic.netlify.app"
         name="Musix app"
-        img="/public/mascreen.png"
+        img="/mascreen.png"
         details={t("projectsDetailsFour")}
       />
     </div>

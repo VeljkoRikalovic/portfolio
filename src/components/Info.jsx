@@ -95,7 +95,7 @@ function Info() {
   return (
     <StyledInfo>
       <StyledDiv>
-        <Img src="/public/profileimg.jpg" alt="profile img" />
+        <Img src="/profileimg.jpg" alt="profile img" />
         <h2>Veljko Rikalović</h2>
         <Socials>
           <a href="https://www.instagram.com/rikalovic/" target="_blank">
