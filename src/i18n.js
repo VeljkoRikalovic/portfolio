@@ -35,6 +35,8 @@ i18n
             "The Wild Oasis is application for managing hotel services bulit with React query, react hook form, supabase and styled components. In this application you can perview all bookings, check in/out guests, see weekly, monthly or yearly profit and many more!",
           projectsDetailsFour:
             "Musix app is fully responsive app built with react router dom, react query and tailwind. You can browse throw music albums, artists and songs and add them to your favourite list and stack them all in one place. In this app you can also preview songs and many more!",
+          projectsDetailsFive:
+            "The wild oasis website is website for booking luxury cabins built with next js and tailwind. On this website you can login in with your google account and pick dates, organize existing bookings and many more!",
           contactMe: "Contact me",
           contactName: "Full name",
           contactEmail: "Email",
@@ -79,6 +81,8 @@ i18n
             "The Wild Oasis je aplikacija za upravljanje hotelskim uslugama sa React query-em, react hook form-om, supabase-om i styled components-om. U ovoj aplikaciji možete pregledati sve rezervacije, prijaviti se/odjaviti goste, videti nedeljni, mesečni ili godišnji profit i još mnogo toga!",
           projectsDetailsFour:
             "Musix aplikacija je potpuno prilagodljiva aplikacija napravljena sa react ruter dom-om, react query i tailwind-om. Možete da pretražujete muzičke albume, izvođače i pesme i dodajete ih na svoju listu omiljenih i složite ih sve na jedno mesto. U ovoj aplikaciji takođe možete da pregledate pesme i još mnogo toga!",
+          projectsDetailsFive:
+            "The wild oasis website je sajt za rezervisanje smeštaja u lukskuzim kućama koji je napravljen sa next js i tailwind-om. Na ovom sajtu možete se registrovati sa vašim google nalogom i napraviti rezervaciju, izmeniti postojuću i još mnogo toga!",
           contactMe: "Kontaktiraj me",
           contactName: "Puno ime",
           contactEmail: "Email",

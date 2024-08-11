@@ -101,7 +101,7 @@ function Project({ github, live, name, img, details }) {
       )}
       {!showMore && (
         <a href={live} target="_blank">
-          <img src={img} />
+          <img width="220" src={img} />
         </a>
       )}
     </Div>
@@ -138,6 +138,13 @@ function ProjectsList() {
         name="Musix app"
         img="/mascreen.png"
         details={t("projectsDetailsFour")}
+      />
+      <Project
+        github="https://github.com/VeljkoRikalovic/the-wild-oasis-website"
+        live="https://the-wild-oasis-website-gamma-gilt.vercel.app"
+        name="The wild oasis website"
+        img="/thewildoasiswebsite.png"
+        details={t("projectsDetailsFive")}
       />
     </div>
   );
